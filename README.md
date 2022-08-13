@@ -10,6 +10,9 @@ https://latifah2022.github.io/Herison-code-rework/
 
 https://github.com/latifah2022/Herison-code-rework
 
+The codebase that follows accessibility standards
+so my own site is optimized for search engines.
+
  And it meets the acceptance criteria;
 
 WHEN I view the source code,
@@ -32,3 +35,4 @@ WHEN I view the title element,
 
 THEN I find a concise, descriptive title. 
 
+Was able to leave the code alot cleaner than i left it.
