@@ -8,7 +8,7 @@ https://latifah2022.github.io/Herison-code-rework/
 
 # Repersotory link.
 
-
+https://github.com/latifah2022/Herison-code-rework
 
  And it meets the acceptance criteria;
 
@@ -29,5 +29,6 @@ WHEN I view the heading attributes,
 THEN they fall in sequential order.
 
 WHEN I view the title element,
+
 THEN I find a concise, descriptive title. 
 
